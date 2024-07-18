@@ -1,0 +1,49 @@
+{
+  "clientes": [
+    {
+      "id": "aa71",
+      "nombre": "Juan Carlos",
+      "apellido": "Gomez",
+      "email": "juangomez88@gmail.com",
+      "telefono": "301-296-0389",
+      "empresa": "UdeA",
+      "cargo": "estudiande"
+    },
+    {
+      "id": "4031",
+      "nombre": "Juan Carlos",
+      "apellido": "Gomez",
+      "email": "juangomez88@gmail.com",
+      "telefono": "301-296-0389",
+      "empresa": "UdeA",
+      "cargo": "estudiande"
+    },
+    {
+      "id": "81f0",
+      "nombre": "Juan Carlos Con router",
+      "apellido": "Gomez",
+      "email": "juangomez88@gmail.com",
+      "telefono": "301-296-0389",
+      "empresa": "UdeA",
+      "cargo": "estudiande"
+    },
+    {
+      "id": "95b3",
+      "nombre": "Juan",
+      "apellido": "Gomez",
+      "email": "juangomez88@gmail.com",
+      "telefono": "301-296-0389",
+      "empresa": "UdeA",
+      "cargo": "desarrollaror"
+    },
+    {
+      "id": "bb55",
+      "nombre": "Juan Carlos",
+      "apellido": "Gomez",
+      "email": "juangomez88@gmail.com",
+      "telefono": "301-296-0389",
+      "empresa": "UdeA",
+      "cargo": "Student"
+    }
+  ]
+}
